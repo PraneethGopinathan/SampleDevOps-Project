@@ -3,9 +3,6 @@ pipeline {
     tools {
         "org.jenkinsci.plugins.terraform.TerraformInstallation" "terraform"
     }
-    parameters {
-        string(name: 'WORKSPACE', defaultValue: 'development', description:'setting up workspace for terraform')
-    }
     environment {
         TF_HOME = tool('terraform')
         TP_LOG = "WARN"
@@ -44,11 +41,6 @@ pipeline {
             steps {
                 dir('terraform/'){
                     script {
-                        try {
-                            sh "terraform workspace new ${params.WORKSPACE}"
-                        } catch (err) {
-                            sh "terraform workspace select ${params.WORKSPACE}"
-                        }
                         sh("terraform plan -var 'access_key=$ACCESS_KEY' -var 'secret_key=$SECRET_KEY' \
                         -out terraform.tfplan;echo \$? > status")
                         stash name: "terraform-plan", includes: "terraform.tfplan"
