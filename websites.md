@@ -1,5 +1,7 @@
-# Youtube
-## DevOps
+
+# DevOps
+- 
+## Youtube
 - [KodeKloud](https://www.youtube.com/c/KodeKloud)
 - [Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 - [Anton Putra](https://www.youtube.com/c/AntonPutra)
@@ -8,13 +10,6 @@
 - [Ned in the Cloud](https://www.youtube.com/c/NedintheCloud) → **Terraform**
 - [AWS Training Center](https://www.youtube.com/c/AWSTrainingCenter) → **AWS Only**
 - [Cloud Advocate](https://www.youtube.com/c/CloudAdvocate)
-
-## Others
-- https://www.youtube.com/c/K%C3%A1rolyZsolnai
-- https://www.youtube.com/c/ArjanCodes
-- https://www.youtube.com/c/Fireship
-- https://www.youtube.com/c/TechWithTim
-
 
 
 # System Design
@@ -116,5 +111,9 @@
 - https://stackexchange.com/sites#technology
 - https://machinelearningmastery.com/start-here/
 
-
+# Youtube
+- https://www.youtube.com/c/K%C3%A1rolyZsolnai
+- https://www.youtube.com/c/ArjanCodes
+- https://www.youtube.com/c/Fireship
+- https://www.youtube.com/c/TechWithTim
 
