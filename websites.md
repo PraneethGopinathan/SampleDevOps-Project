@@ -87,6 +87,11 @@
 - https://machinelearningmastery.com/start-here/
 
 # Youtube
+
+## DevOps
+- []
+
+---
 - https://www.youtube.com/c/K%C3%A1rolyZsolnai
 - https://www.youtube.com/c/ArjanCodes
 - https://www.youtube.com/c/Fireship
