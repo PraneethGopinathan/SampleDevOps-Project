@@ -1,6 +1,8 @@
 
 # DevOps
-- 
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
+
+
 ## Youtube
 - [KodeKloud](https://www.youtube.com/c/KodeKloud)
 - [Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana)
