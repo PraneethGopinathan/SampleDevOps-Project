@@ -7,6 +7,7 @@
 - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
 - [Ned in the Cloud](https://www.youtube.com/c/NedintheCloud) → **Terraform**
 - [AWS Training Center](https://www.youtube.com/c/AWSTrainingCenter) → **AWS Only**
+- [Cloud Advocate](https://www.youtube.com/c/CloudAdvocate)
 
 ## Others
 - https://www.youtube.com/c/K%C3%A1rolyZsolnai
