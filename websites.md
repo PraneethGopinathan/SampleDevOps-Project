@@ -1,3 +1,21 @@
+# Youtube
+
+## DevOps
+- [KodeKloud](https://www.youtube.com/c/KodeKloud)
+- [Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana)
+- [Anton Putra](https://www.youtube.com/c/AntonPutra)
+- [A Cloud Guru](https://www.youtube.com/c/AcloudGuru)
+- [That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
+- [Ned in the Cloud](https://www.youtube.com/c/NedintheCloud) → Terraform
+
+
+- https://www.youtube.com/c/K%C3%A1rolyZsolnai
+- https://www.youtube.com/c/ArjanCodes
+- https://www.youtube.com/c/Fireship
+- https://www.youtube.com/c/TechWithTim
+
+---
+
 # System Design
 
 - https://github.com/donnemartin/system-design-primer
@@ -99,13 +117,3 @@
 
 ---
 
-# Youtube
-
-## DevOps
-- [KodeKloud](https://www.youtube.com/c/KodeKloud)
-
-
-- https://www.youtube.com/c/K%C3%A1rolyZsolnai
-- https://www.youtube.com/c/ArjanCodes
-- https://www.youtube.com/c/Fireship
-- https://www.youtube.com/c/TechWithTim
