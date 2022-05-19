@@ -3,27 +3,32 @@
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/codersguild/System-Design
 
+---
 
 # Design Patterns
-
 - https://refactoring.guru/design-patterns
     - https://github.com/RefactoringGuru/design-patterns-python
 - https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition
 - https://github.com/Sean-Bradley/Design-Patterns-In-Python
 - https://github.com/https://github.com/DovAmir/awesome-design-patternsfaif/python-patterns
 
-# Python
+---
 
+# Python
 - https://github.com/TheAlgorithms/Python
 - https://github.com/vinta/awesome-python
 - https://github.com/cosmicpython/book
 - https://github.com/trekhleb/learn-python
 - https://github.com/satwikkansal/wtfpython#-for-what
 
+---
+
 # Developer
 - https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/freeCodeCamp/freeCodeCamp
+
+---
 
 # Machine Learning
 - https://nn.labml.ai
@@ -51,12 +56,16 @@
 - https://github.com/aikorea/awesome-rl/
 - https://github.com/yandexdataschool/Practical_RL
   
+---
+
 # Interesting Websites
 - https://learnxinyminutes.com/
 - https://www.codegrepper.com/
 - https://www.codegrepper.com/
 - https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
 - https://levelup.gitconnected.com/top-10-github-repos-every-developer-must-know-9da14292e284
+
+---
 
 # Progamming
 - https://github.com/sindresorhus/awesome
@@ -81,17 +90,21 @@
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://github.com/ukncsc/zero-trust-architecture
 
+---
+
 # News
 - https://news.ycombinator.com/
 - https://stackexchange.com/sites#technology
 - https://machinelearningmastery.com/start-here/
+
+---
 
 # Youtube
 
 ## DevOps
 - [KodeKloud](https://www.youtube.com/c/KodeKloud)
 
----
+
 - https://www.youtube.com/c/K%C3%A1rolyZsolnai
 - https://www.youtube.com/c/ArjanCodes
 - https://www.youtube.com/c/Fireship
